@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Ribeiro Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "validar-cpf": "^2.1.1"
+  }
+}
